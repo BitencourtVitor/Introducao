@@ -1,6 +1,6 @@
 # Seja bem vindo! 👋
 
-🔭 Atualmente sou consultor comercial e busco recolocação profissional para a área de dados, pela qual tenho muito apreço. Neste portfólio você encontrará parte dos meus projetos, para cada um deles eu vou explicar exatamente o que fiz.
+🔭 Atualmente sou consultor comercial e busco recolocação profissional para a área de dados. Neste portfólio você encontrará parte dos meus projetos, para cada um deles eu vou explicar exatamente o que fiz.
 
 💬 Pergunte-me sobre: 
 - Excel

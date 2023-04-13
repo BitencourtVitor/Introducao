@@ -1,16 +1,23 @@
-### Hi there 👋
+# Seja bem vindo! 👋
+
+🔭 Atualmente sou consultor comercial e busco recolocação profissional para a área de dados, pela qual tenho muito apreço. Neste portfólio você encontrará parte dos meus projetos, para cada um deles eu vou explicar exatamente o que fiz.
+
+💬 Pergunte-me sobre: 
+- Excel
+- Power Query
+- SQL
+- Python
+- Power BI
+- Looker Studio 
+- Storytelling
+
+E-mail: vitormbaraujo1306@gmail.com
+
+Há também meu perfil no [Instagram](https://www.instagram.com/vitorbitt/).
+
+Ou no [LinkedIn](https://www.linkedin.com/in/vitor-bitencourt-063260230/)
+
 
 <!--
-**BitencourtVitor/bitencourtvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Essa é uma estrutura de comentários que vou manter para caso necessário.
 -->

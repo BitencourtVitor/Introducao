@@ -6,5 +6,5 @@ Todos os arquivos disponibilizados já foram anonimizados, criei uma "empresa" d
 ###### Aqui, você terá acesso a:
 - Print do Dashboard feito em Power BI
 - Arquivo notebook em Python que criei para anonimizar os dados, comentei tudo para melhor entendimento.
-- Arquivo .pbix para caso queira interagir ou realizar alguma 
+- Arquivo .pbix para caso queira interagir ou realizar alguma alteração
 - Base de dados já feita para caso queira navegar.

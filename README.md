@@ -13,9 +13,7 @@
 
 E-mail: vitormbaraujo1306@gmail.com
 
-Há também meu perfil no [Instagram](https://www.instagram.com/vitorbitt/).
-
-Ou no [LinkedIn](https://www.linkedin.com/in/vitor-bitencourt-063260230/)
+[Instagram](https://www.instagram.com/vitorbitt/) | [LinkedIn](https://www.linkedin.com/in/vitor-bitencourt-063260230/)
 
 
 <!--

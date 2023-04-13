@@ -17,7 +17,7 @@ A partir disso, foram feitas consultas com o nome do cliente, metragem comprada,
 Informações básicas para visualizar potencial de venda... Os resultados das consultas foram salvos em arquivos no formato .csv
 - TRANSFORMAÇÃO: Inseri o arquivo .csv dentro do Power Query para fazer as devidas correções e ajustes nos mínimos detalhes, desde correção de ortografia até formatação dos valores para evitar discrepância.
 A partir do arquivo já corrigido, transformei-o em uma tabela dentro do Excel e adulterei os valores de metragem e faturamento.
-- ANONIMIZAÇÃO: No Anaconda Prompt instalei a biblioteca Faker, logo em seguida desenvolvi o código que segue dentro dessa pasta... Ele foi capaz de substituir todos os nomes de clientes, vendedores e cidades.
+- ANONIMIZAÇÃO: No Anaconda Prompt instalei a biblioteca Faker com o comando "pip install Faker", logo em seguida desenvolvi o código que segue dentro dessa pasta... Ele foi capaz de substituir todos os nomes de clientes, vendedores e cidades.
 - LOAD: Sabendo do que precisava ser apresentado ao público e como apresentar, criei o Dashboard no Figma tomando cuidado com paleta de cores, distribuição dos elementos visuais, etc.
 
 ## Pontos a corrigir 

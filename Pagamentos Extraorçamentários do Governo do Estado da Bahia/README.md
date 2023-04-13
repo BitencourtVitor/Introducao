@@ -1,6 +1,6 @@
 # Pagamentos Extraorçamentários
-No site de dados abertos do governo federal que você pode acessar clicando [aqui](https://dados.gov.br/home) eu encontrei uma base que descrevia as despesas do governo 
-estadual da Bahia ao longo dos anos de 2019 até 2021 (o ano de 2022 ainda estava incompleto).
+No site de dados abertos do governo federal que você pode acessar clicando [aqui](https://dados.gov.br/home) eu encontrei uma base que descrevia algumas das 
+despesas do governo estadual da Bahia ao longo dos anos de 2019 até 2021 (o ano de 2022 ainda estava incompleto).
 
 ###### Aqui, você terá acesso a:
 - Print do Dashboard feito em Power BI

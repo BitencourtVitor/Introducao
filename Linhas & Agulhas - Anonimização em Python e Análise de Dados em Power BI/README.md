@@ -1,3 +1,5 @@
+## Linhas & Agulhas
+
 Trabalhei anteriormente em uma indústria vidreira e desenvolvi um estudo de Análise de Dados para as vendas no ano de 2021, especificamente.
 Todos os arquivos disponibilizados já foram anonimizados, criei uma "empresa" da indústria têxtil que assim como a vidreira, venderia seus produtos por metragem.
 

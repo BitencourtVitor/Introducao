@@ -11,6 +11,7 @@ Todos os arquivos disponibilizados já foram anonimizados, criei uma "empresa" d
 
 ## Passo a passo
 - OBJETIVO: Realizar um estudo sobre as vendas feitas no ano de 2021 afim de identificar padrões, insights, pontos fortes e fracos e traçar, a partir disso, possíveis estratégias para o ano seguinte.
+
 - EXTRAÇÃO: O banco de dados da empresa é baseado na linguagem SQL.
 A partir disso, foram feitas consultas com o nome do cliente, metragem comprada, valor comprado, cidade do cadastro, roteiro de entrega e o período (mês) em referência.
 Informações básicas para visualizar potencial de venda... Os resultados das consultas foram salvos em arquivos no formato .csv

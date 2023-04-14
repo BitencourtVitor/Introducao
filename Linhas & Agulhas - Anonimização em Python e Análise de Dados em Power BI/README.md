@@ -23,6 +23,6 @@ A partir do arquivo já corrigido, transformei-o em uma tabela dentro do Excel e
 ## Pontos a corrigir 
 Afinal de contas, sempre há o que melhorar. 
 - Usar inúmeras ferramentas diferentes para coleta e tratamento... Caso houvesse proficiência em uma única ferramenta, ela bastaria para que eu fosse mais eficaz.
-- Utilizar cidades fictícias ao invés de cidades aleatórias em um determinado perímetro.
+- Na próxima oportunidade que eu tiver, ao invés de cidades fictícias, usarei cidades verdadeiras em um determinado perímetro.
 
 ###### Estamos no caminho! Estou em constante desenvolvimento.

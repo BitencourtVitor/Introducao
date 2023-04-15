@@ -2,6 +2,9 @@
 No site de dados abertos do governo federal que você pode acessar clicando [aqui](https://dados.gov.br/home) eu encontrei uma base que descrevia algumas das 
 despesas do governo estadual da Bahia ao longo dos anos de 2019 até 2021 (o ano de 2022 ainda estava incompleto).
 
+![Aqui insiro um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Pagamentos%20Extraor%C3%A7ament%C3%A1rios%20do%20Governo%20do%20Estado%20da%20Bahia/print%20dashboard%20completo.png)
+
+
 ###### Aqui, você terá acesso a:
 - Print do Dashboard feito em Power BI
 - Arquivo .pbix para caso queira interagir ou realizar alguma alteração
@@ -15,3 +18,4 @@ despesas do governo estadual da Bahia ao longo dos anos de 2019 até 2021 (o ano
 valor de algumas colunas afim de deixar a base compactada.
 - LOAD: Criei o template no Figma utilizando a paleta de tons da bandeira do estado de forma moderna e suave, distribuí as visualizações dentro do Power BI considerando
 a distribuição mais conveniente afim de facilitar a interpretação dos dados.
+- CONCLUSÃO: Fica perceptível com muita clareza que há dois órgãos responsáveis pela maior parte do consumo dos recursos: Diretoria do Tesouro e Tribunal de Justiça, há um destaque destes não apenas na quantidade mas também na recorrência das contribuições... Caso haja interesse em um menor consumo de recursos do estado, sabe-se por onde começar.

@@ -20,7 +20,7 @@ A partir do arquivo já corrigido, transformei-o em uma tabela dentro do Excel e
 - ANONIMIZAÇÃO: No Anaconda Prompt instalei a biblioteca Faker com o comando "pip install Faker", logo em seguida desenvolvi o código que segue dentro dessa pasta... Ele foi capaz de substituir todos os nomes de clientes, vendedores e cidades.
 - LOAD: Sabendo do que precisava ser apresentado ao público e como apresentar, criei o Dashboard no Figma tomando cuidado com paleta de cores, distribuição dos elementos visuais, etc.
 
-## Pontos a corrigir 
+## Pontos a melhorar 
 Afinal de contas, sempre há o que melhorar. 
 - Usar inúmeras ferramentas diferentes para coleta e tratamento... Caso houvesse proficiência em uma única ferramenta, ela bastaria para que eu fosse mais eficaz.
 - Na próxima oportunidade que eu tiver, ao invés de cidades fictícias, usarei cidades verdadeiras em um determinado perímetro.

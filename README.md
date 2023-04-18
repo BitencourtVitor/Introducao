@@ -1,5 +1,7 @@
 # Seja bem vindo! 👋
 
+Caso queira, você pode acessar meu [currículo](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/curriculum_vitor.pdf)! 
+
 🔭 Atualmente sou consultor comercial e busco recolocação profissional para a área de dados. Neste repositório você encontrará parte dos meus projetos, para cada um deles eu vou explicar exatamente o que fiz.
 
 💬 Pergunte-me sobre: 

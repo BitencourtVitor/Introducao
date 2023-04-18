@@ -19,3 +19,4 @@ valor de algumas colunas afim de deixar a base compactada.
 - LOAD: Criei o template no Figma utilizando a paleta de tons da bandeira do estado de forma moderna e suave, distribuí as visualizações dentro do Power BI considerando
 a distribuição mais conveniente afim de facilitar a interpretação dos dados.
 - CONCLUSÃO: Fica perceptível com muita clareza que há dois órgãos responsáveis pela maior parte do consumo dos recursos: Diretoria do Tesouro e Tribunal de Justiça, há um destaque destes não apenas na quantidade mas também na recorrência das contribuições... Caso haja interesse em um menor consumo de recursos do estado, sabe-se por onde começar.
+- PONTOS A MELHORAR: Visto que alguns dados possuem um valor exorbitante se comparados aos demais, acredito que haveriam outras formas de passar a informação, de montar o Dashboard afim de trazer mais eficácia.

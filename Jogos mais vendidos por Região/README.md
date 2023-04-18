@@ -1,5 +1,5 @@
 # Jogos mais vendidos por Região
-Ao realizar a formação em Data Science na Awari, tive a oportunidade de conhecer o Kaggle, onde consegui uma base de dados referente a vendas de jogos de videogame em diferentes regiões do mundo, de diferentes produtoras e consoles: é sobre o que falarei neste Dashboard.
+Ao realizar a formação em Data Science na Awari, tive a oportunidade de conhecer o Kaggle, onde consegui uma base de dados referente a vendas de jogos de videogame em diferentes regiões do mundo, de diferentes gêneros, produtoras e consoles: é sobre o que falarei neste Dashboard.
 
 ![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Jogos%20mais%20vendidos%20por%20Regi%C3%A3o/print_dashboard.png)
 
@@ -9,7 +9,7 @@ Ao realizar a formação em Data Science na Awari, tive a oportunidade de conhec
 - Base de dados antes do tratamento para caso queira navegar.
 
 ## Passo a passo
-- OBJETIVO: Tratamento dos dados e montagem de um Dashboard que pudesse tornar possível dimensionar quais os jogos mais vendidos a partir dos mais diversos tipos de informação propostos: seja a sua categoria, console ou produtora.
+- OBJETIVO: Tratamento dos dados e montagem de um Dashboard que pudesse tornar possível dimensionar quais os jogos mais vendidos a partir dos mais diversos tipos de informação propostos: seja a seu gênero, console ou produtora.
 
 - EXTRAÇÃO: A base de dados foi fornecida por um usuário do Kaggle, sem que fosse necessária a utilização de nenhum 
 mecanismo de coleta.

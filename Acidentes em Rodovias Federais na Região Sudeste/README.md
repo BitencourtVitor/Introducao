@@ -19,3 +19,4 @@ para evitar problemas posteriores na geração das visualizações.
 - LOAD: Criei o template no Figma utilizando a paleta de tons escurecida, distribuí as visualizações dentro do Power BI considerando
 a distribuição mais conveniente afim de facilitar a interpretação dos dados.
 - CONCLUSÃO: Observa-se um foco em acidentes automotivos em áreas de alta circulação de veículos aos fins de semana, no início da noite e ao fim da madrugada... Os indícios nos levam a concluir que maior parte dos acidentes são causados pela intervenção da bebida alcóolica.
+- PONTOS A MELHORAR: Dada a dimensão dos dados e seu nível, seria cabível realizar testes de análise preditiva, contudo, no período em que o estudo foi feito, eu ainda não possuía conhecimento nesta área.

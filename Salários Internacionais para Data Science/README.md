@@ -17,4 +17,4 @@ mecanismo de coleta.
 - LOAD: Criei o template no Figma utilizando a paleta de tons que conectasse com as cores do [Kaggle](https://www.kaggle.com/), de forma que passasse a imagem de tons neutros, entre azul e branco, com cores diversas em tons não muito ativos mas também não muito fracos.
 - CONCLUSÃO: É inegável a hegemonia americana, maior parte das oportunidades se encontram lá, maioria dos profissionais é de lá... Eu poderia dizer que isso se deve apenas ao Vale do Silício, mas não: o Vale do Silício concentra empresas gigantes no ramo de tecnologia, enquanto a maior parte das oportunidades são em empresas de médio porte. De fato, observo uma questão de maturidade e consciência da necessidade de profissionais da área.
 ## Pontos a melhorar 
-Por conta da simplicidade dos dados, não consegui pensar em nenhuma informação complexa o suficiente para que pudesse aproveitar todo o espaço do template, cujo formato é robusto, como todo Dashboard (1600x900).
+Acredito que os dados poderiam ser expressados de forma melhor, evitando gráficos de rosca ou sendo mais claro com a informação passada através das barras horizontais.

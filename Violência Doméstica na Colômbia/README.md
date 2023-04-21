@@ -15,7 +15,10 @@ Acessando o Kaggle, consegui uma base de dados muito interessante: ela fala sobr
 
 - EXTRAÇÃO: O banco de dados foi disponibilizado no Kaggle no formato .csv
 A partir disso, resolvi realizar todo o tratamento em Python para fins didáticos, evidentemente eu poderia ter feito com outras ferramentas caso quisesse.
-- TRANSFORMAÇÃO: Inseri o arquivo .csv dentro do Jupyter para fazer as devidas correções e ajustes nos mínimos detalhes, desde correção de idioma (muitos dados em espanhol) até formatação dos valores para evitar discrepância.
+- TRANSFORMAÇÃO: Inseri o arquivo .csv dentro do Jupyter para fazer as devidas correções e ajustes nos mínimos detalhes, desde correção de idioma (muitos dados em espanhol) até formatação dos valores para evitar discrepância. Vou colocar um print do antes e depois do tratamento na base de dados!
+
+![Aqui está o print](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Viol%C3%AAncia%20Dom%C3%A9stica%20na%20Col%C3%B4mbia/Antes_Depois%20do%20Tratamento.png)
+
 A partir do arquivo já corrigido, transformei-o em uma tabela dentro do Excel.
 - LOAD: Sabendo do que precisava ser apresentado e planejando como apresentar, criei o Dashboard no Figma tomando cuidado com paleta de cores, distribuição dos elementos visuais, etc.
 

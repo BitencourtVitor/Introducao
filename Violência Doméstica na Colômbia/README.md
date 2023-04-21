@@ -2,6 +2,8 @@
 
 Acessando o Kaggle, consegui uma base de dados muito interessante: ela fala sobre a quantidade de ocorrências realizadas na Colômbia entre 2010 e Março de 2023 referentes a violência doméstica. Um assunto delicado, mas que abre precedente para muitos estudos.
 
+![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Viol%C3%AAncia%20Dom%C3%A9stica%20na%20Col%C3%B4mbia/print_dashboard.png)
+
 ###### Aqui, você terá acesso a:
 - Print do Dashboard feito em Power BI
 - Arquivo notebook em Python que criei para tratar os dados, comentei tudo para melhor entendimento.

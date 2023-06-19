@@ -4,7 +4,7 @@ Caso queira, você pode acessar meu [currículo](https://drive.google.com/file/d
 
 Aqui você encontrará o meu [portfólio](https://github.com/BitencourtVitor/bitencourtvitor), um repositório com parte dos projetos que já desenvolvi, tudo explicado e devidamente comentado... Como você pode imaginar, pretendo expandir, trazendo novos projetos: cada um com uma abordagem diferente.
 
-🔭 Atualmente sou consultor comercial e busco recolocação profissional para a área de dados.
+🔭 Busco recolocação profissional para a área de dados.
 
 💬 Pergunte-me sobre: 
 - Excel

@@ -1,6 +1,6 @@
 # Seja bem vindo! 👋
 
-Caso queira, você pode acessar meu [currículo](https://drive.google.com/file/d/1-GtUMdtKxpo4cYnQRoZsC1Dcc4G17l4W/view?usp=share_link)! 
+Caso queira, você pode acessar meu [currículo](https://drive.google.com/file/d/16WrxVr2k_Vb5q4VHffHertZJWNpLhJ4q/view)! 
 
 Aqui você encontrará o meu [portfólio](https://github.com/BitencourtVitor/bitencourtvitor), um repositório com parte dos projetos que já desenvolvi, tudo explicado e devidamente comentado... Como você pode imaginar, pretendo expandir, trazendo novos projetos: cada um com uma abordagem diferente.
 
